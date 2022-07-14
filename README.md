@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irenasb
 - 👀 I’m interested in Applied Science, Machine Learning, Causal Inference..
-- 🌱 I’m currently doing a Machine Learning zoomcamp by DataTalks.Club
+- 🌱 I’m currently exploring time series foracasting with various Deep Learning methods
 
 
 <!---
